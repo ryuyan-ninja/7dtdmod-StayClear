@@ -6,7 +6,9 @@ This mod ensures you buildings stay clear, so you can try to take over entire to
 
 ## Usage
 
-You need to use DMT to apply this mod. All the information you should require can be found [here](https://7daystodie.com/forums/showthread.php?117235-DMT-Modding-Tool).
+[Download the latest release](https://github.com/ryuyan-ninja/7d2dmod-StayClear/releases/latest/download/StayClear.zip)
+
+__You need to use DMT to apply this mod.__ All the information you should require can be found [here](https://7daystodie.com/forums/showthread.php?117235-DMT-Modding-Tool).
 
 ## Donations
 
