@@ -16,4 +16,4 @@ If you want to reward me for my efforts in publicizing this, feel free to send m
 
 ## Bugs / Issues
 
-If you encounter a bug, please [submit a new issue here](https://github.com/ryuyan-ninja/7d2dmod-StayClear/issues/new) or leave a reply on the forums [here](https://7daystodie.com/forums/showthread.php?160069-StayClear-(No-Sleeper-Respawn)-18-3-tested&p=1110877#post1110877)
+If you encounter a bug, please [submit a new issue here](https://github.com/ryuyan-ninja/7d2dmod-StayClear/issues/new) or leave a reply on the forums [here](https://7daystodie.com/forums/showthread.php?160069-StayClear-(No-Sleeper-Respawn)-18-3-tested&p=1110877#post1110877).
