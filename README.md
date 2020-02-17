@@ -8,7 +8,11 @@ This mod ensures buildings you've cleared out stay clear, so you can have a last
 
 [Download the latest release](https://github.com/ryuyan-ninja/7d2dmod-StayClear/releases/latest/download/StayClear.zip) and apply with [DMT](https://7daystodie.com/forums/showthread.php?117235-DMT-Modding-Tool).
 
-DMT is a tool for managing and applying mods to the game. Download links and usage information for DMT can be found [here](https://7daystodie.com/forums/showthread.php?117235-DMT-Modding-Tool).
+DMT is a tool for managing and applying mods to the game with support for the Harmony modding library, which is required by this mod. Download links and usage information for DMT can be found [here](https://7daystodie.com/forums/showthread.php?117235-DMT-Modding-Tool).
+
+## Compatibility
+
+The latest version has been tested in A18.1 through A18.3. It should also work in Alpha 17 versions, but if you encounter a problem, feel free to reach out as mentioned below.
 
 ## Donations
 
