@@ -2,7 +2,7 @@
 
 A mod for 7 Days to Die that prevents sleeper respawns.
 
-This mod ensures you buildings stay clear, so you can try to take over entire towns. Have fun.
+This mod ensures buildings you've cleared out stay clear, so you can have a lasting effect on the map. Have fun.
 
 ## Usage
 
