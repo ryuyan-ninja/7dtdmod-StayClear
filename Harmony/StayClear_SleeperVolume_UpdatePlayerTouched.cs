@@ -8,7 +8,7 @@ using UnityEngine;
 [HarmonyPatch("UpdatePlayerTouched")]
 class StayClear_SleeperVolume_UpdatePlayerTouched : IHarmony
 {
-    protected static string Product = "io.stealthbit.7dtdMods.StayClear";
+    protected static string Product = "io.stealthbit.7dtdmods.StayClear";
 
     static bool Prefix(ref ulong ___respawnTime, World _world)
     {
@@ -18,9 +18,9 @@ class StayClear_SleeperVolume_UpdatePlayerTouched : IHarmony
     }
 
     public virtual void Start()
-	{
+    {
         Debug.Log(String.Format("Loading Harmony Patch: {0} | Classes: {1}", Product, GetType()));
         var harmony = HarmonyInstance.Create(Product);
         harmony.PatchAll(Assembly.GetExecutingAssembly());
-	}
+    }
 }
