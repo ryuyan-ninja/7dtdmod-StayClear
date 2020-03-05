@@ -12,7 +12,7 @@ class StayClear_SleeperVolume_UpdatePlayerTouched : IHarmony
 
     static bool Prefix(ref ulong ___respawnTime, World _world)
     {
-        ___respawnTime = ulong.MaxValue;
+        ___respawnTime = _world.worldTime + 120000UL;
 
         return true;
     }
