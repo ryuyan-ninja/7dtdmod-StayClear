@@ -12,7 +12,7 @@ DMT is a tool for managing and applying mods to the game with support for the Ha
 
 ## Compatibility
 
-The latest version has been tested in A18.1 through A18.3. It should also work in Alpha 17 versions, but if you encounter a problem, feel free to reach out as mentioned below.
+The latest version has been tested in A19.2. Previously the mod was created and tested for A18.1-A18.4 and should also work on A17, but for that I would recommend downloading version 1.1.0 of the mod [here](https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/download/v1.1.0/StayClear.zip).
 
 ## Donations
 
