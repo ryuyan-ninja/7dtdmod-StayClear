@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xml>
-	<ModInfo>
-		<Name value="StayClear" />
-		<Description value="After you clear a POI, it stays cleared" />
-		<Author value="Ryuyan" />
-		<Version value="1.1.0" />
-	</ModInfo>
+  <ModInfo>
+    <Name value="StayClear" />
+    <Description value="After you clear a POI, it stays cleared" />
+    <Author value="Ryuyan" />
+    <Version value="1.1.1" />
+  </ModInfo>
+  <DMT>
+    <dependencies />
+    <conflicts />
+  </DMT>
 </xml>

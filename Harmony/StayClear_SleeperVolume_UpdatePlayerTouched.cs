@@ -1,6 +1,6 @@
 using System;
 using System.Reflection;
-using Harmony;
+using HarmonyLib;
 using DMT;
 using UnityEngine;
 
@@ -20,7 +20,7 @@ class StayClear_SleeperVolume_UpdatePlayerTouched : IHarmony
     public virtual void Start()
     {
         Debug.Log(String.Format("Loading Harmony Patch: {0} | Classes: {1}", Product, GetType()));
-        var harmony = HarmonyInstance.Create(Product);
+        var harmony = new Harmony(Product);
         harmony.PatchAll(Assembly.GetExecutingAssembly());
     }
 }
