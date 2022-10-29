@@ -1,11 +1,8 @@
-using System;
 using HarmonyLib;
-using UnityEngine;
 
 namespace StayClear
 {
-    [HarmonyPatch(typeof(SleeperVolume))]
-    [HarmonyPatch("UpdatePlayerTouched")]
+    [HarmonyPatch(typeof(SleeperVolume), "UpdatePlayerTouched")]
     class SleeperVolume_UpdatePlayerTouched
     {
         static bool Prefix(ref ulong ___respawnTime, World _world)

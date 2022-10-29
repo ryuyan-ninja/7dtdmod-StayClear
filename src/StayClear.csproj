@@ -2,27 +2,14 @@
   <PropertyGroup>
     <TargetFramework>net4.8</TargetFramework>
     <OutputType>Library</OutputType>
-	  <RootNamespace>StayClear</RootNamespace>
-	  <AssemblyName>StayClear</AssemblyName>
-    <GameDir>G:\Games\SteamLibrary\steamapps\common\7 Days To Die</GameDir>
+    <RootNamespace>StayClear</RootNamespace>
+    <AssemblyName>StayClear</AssemblyName>
+    <GameDir>H:\Games\SteamLibrary\steamapps\common\7 Days To Die</GameDir>
   </PropertyGroup>
   <ItemGroup>
-		<Reference Include="0Harmony">
-			<HintPath>$(GameDir)\7DaysToDie_Data\Managed\0Harmony.dll</HintPath>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="Assembly-CSharp">
-			<HintPath>$(GameDir)\7DaysToDie_Data\Managed\Assembly-CSharp.dll</HintPath>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="LogLibrary">
-			<HintPath>$(GameDir)\7DaysToDie_Data\Managed\LogLibrary.dll</HintPath>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="UnityEngine">
-			<HintPath>$(GameDir)\7DaysToDie_Data\Managed\UnityEngine.dll</HintPath>
-			<Private>False</Private>
-		</Reference>
+		<Reference Include="$(GameDir)\7DaysToDie_Data\Managed\0Harmony.dll" Private="False" />
+		<Reference Include="$(GameDir)\7DaysToDie_Data\Managed\Assembly-CSharp.dll" Private="False" />
+		<Reference Include="$(GameDir)\7DaysToDie_Data\Managed\UnityEngine.dll" Private="False" />
 	</ItemGroup>
   <ItemGroup>
 		<Content Include="ModInfo.xml" CopyToOutputDirectory="Always" />
