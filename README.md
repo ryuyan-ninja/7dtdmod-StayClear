@@ -2,13 +2,17 @@
 
 A mod for 7 Days to Die that prevents sleeper respawns.
 
-This mod ensures buildings you've cleared out stay clear, so you can have a lasting effect on the map. Have fun.
+This mod ensures buildings you've cleared out stay clear, so you can have a lasting effect on the map. Have fun!
 
 ## Usage
 
-### A20+
+### A21+
 
 [Download the latest release](https://github.com/ryuyan-ninja/7d2dmod-StayClear/releases/latest/download/StayClear.zip) and place in your "Mods" folder, then run the game with Easy Anti-Cheat disabled.
+
+### A20
+
+[Download v1.3.1 of the mod](https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/download/v1.3.1/StayClear.zip) and place in your "Mods" folder, then run the game with Easy Anti-Cheat disabled.
 
 ### Older versions than A20
 
@@ -22,7 +26,7 @@ DMT is required to use this mod in versions older than A20. It is a tool for man
 
 ## Compatibility
 
-The latest version has been tested in A20. For versions older than A20, see above on how to use [v1.2.0 of the mod](https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/download/v1.2.0/StayClear.zip), which has been tested on various versions of A19, A18, and A17.
+The latest version has been tested in A21. For versions older than A20, see above on how to use [v1.2.0 of the mod](https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/download/v1.2.0/StayClear.zip), which has been tested on various versions of A19, A18, and A17.
 
 ## Donations
 
