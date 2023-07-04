@@ -26,8 +26,8 @@ DMT is required to use this mod in versions older than A20. It is a tool for man
 
 ## Compatibility
 
-The [latest version](https://github.com/ryuyan-ninja/7d2dmod-StayClear/releases/latest/download/StayClear.zip) has been tested in A21.
-For version A20, use [v1.3.1 of the mod](https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/download/v1.3.1/StayClear.zip).
+The [latest version](https://github.com/ryuyan-ninja/7d2dmod-StayClear/releases/latest/download/StayClear.zip) has been tested in A21.  
+For version A20, use [v1.3.1 of the mod](https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/download/v1.3.1/StayClear.zip).  
 For versions older than A20, see above on how to use [v1.2.0 of the mod](https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/download/v1.2.0/StayClear.zip), which has been tested on various versions of A19, A18, and A17.
 
 ## Donations
